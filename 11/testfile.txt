@@ -1,0 +1,8 @@
+Data appended using original file descriptor.
+Data appended using dup() file descriptor.
+Data appended using dup2() file descriptor.
+Data appended using fcntl() file descriptor.
+Data appended using original file descriptor.
+Data appended using dup() file descriptor.
+Data appended using dup2() file descriptor.
+Data appended using fcntl() file descriptor.
